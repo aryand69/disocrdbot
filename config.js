@@ -1,0 +1,9 @@
+exports.TOKEN = 'ODUzNTM2NjI3MDY1ODgwNTk3.YMWz7Q.SC6I_grXaW6LF4DYtmRW23Ia_K4';
+
+exports.PREFIX = '-';
+
+exports.news_API = '9a3d7746472649dc8365f04220b48daf';
+
+exports.giphy_API = 'Ss6QnkcO2lRGjRUkiw6AmRvN65fR9onB';
+
+exports.AME_API = 'bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d';
